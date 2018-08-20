@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Singletons</string>
+    <string name="usuario">Escribe tu usuario</string>
+    <string name="usuario1">Email</string>
+    <string name="usuario2">Password</string>
+    <string name="password">Escribe tu Password</string>
+    <string name="ingresar">Ingresar al sistema</string>
+</resources>
